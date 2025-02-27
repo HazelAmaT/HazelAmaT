@@ -1,4 +1,5 @@
-![Mi Logo](https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif)
+<img src="[https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif" width="200" height="200">
+
 
 ## Hello world 👋 !!!!
 
