@@ -20,4 +20,5 @@
 
 ⚡ Fun fact: 90% of your time as Data scientist will be cleaning and prepocessing data rather than building a ML model. Don´t stress!!!, everything will be fine once you learn how analyze your data
 
-![GitHub Stats](assets/image.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+
