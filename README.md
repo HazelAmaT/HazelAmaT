@@ -1,6 +1,6 @@
 <p align = "center">
 <img src="https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif" width="300" height="200">
-<img src="[https://github.com/user-attachments/assets/932e8c12-5702-4745-9f06-ccafdba4bf6b)](https://i.gifer.com/2GU.gif](https://i.gifer.com/2GU.gif)" width="300" height="200">
+<img src="https://i.gifer.com/2GU.gif" width="300" height="200">
 
 </p>
 
