@@ -1,4 +1,4 @@
-![Mi Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fdata-analysis&psig=AOvVaw0wzDeyX1M0KcZEb_qjYMPv&ust=1740701014933000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjK-uDG4osDFQAAAAAdAAAAABAE)
+![Mi Logo](https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif)
 
 ## Hello world 👋 !!!!
 
